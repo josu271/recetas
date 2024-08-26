@@ -1,0 +1,36 @@
+[33mcommit ddfb59b40259efadb622bf3449b8d835ae8a9ae6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: josu271 <jose_enero2004@hotmail.com>
+Date:   Mon Aug 26 14:55:08 2024 -0500
+
+    Se modifica ruta de imagen en receta
+
+[33mcommit 088394967f681c3a2ea03f88f8099a881121f056[m
+Author: josu271 <jose_enero2004@hotmail.com>
+Date:   Mon Aug 26 14:47:52 2024 -0500
+
+    Se añade Readme.md
+
+[33mcommit 18866d60c9ab2ed0050dac3078aa6bcf688c45fc[m
+Merge: 14bce03 aa9720e
+Author: josu271 <jose_enero2004@hotmail.com>
+Date:   Mon Aug 26 14:46:51 2024 -0500
+
+    Merge branch 'main' of https://github.com/josu271/recetas
+
+[33mcommit 14bce037da027ea0c94c52bf20c06df273724bf3[m
+Author: josu271 <jose_enero2004@hotmail.com>
+Date:   Mon Aug 26 14:45:31 2024 -0500
+
+    Se añade codigo base
+
+[33mcommit aa9720ef22c04d5d5fc015d733f8424c437b11d5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: JOSU271 <138424444+josu271@users.noreply.github.com>
+Date:   Mon Aug 26 14:43:16 2024 -0500
+
+    Update README.md
+
+[33mcommit 28c8809b09217408f67a8d1052d9a374d7259636[m
+Author: josu271 <jose_enero2004@hotmail.com>
+Date:   Mon Aug 26 14:40:18 2024 -0500
+
+    first commit
